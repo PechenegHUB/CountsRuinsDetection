@@ -1,0 +1,12 @@
+{
+  "final_d53_cpu_inputs.zip": {
+    "sha256": "cf46063f075c21814bd50499dd5d92845e2c829ee7abe85daf9dfffd5e55ee5e",
+    "bytes": null,
+    "purpose": "CPU reconstruction from frozen inputs"
+  },
+  "D53_legacy_weights.zip": {
+    "sha256": "1b67a31aafe830d52f828269e7111828ea7574c3021e534092566cf2a35b76b9",
+    "bytes": null,
+    "purpose": "Original neural network checkpoints"
+  }
+}

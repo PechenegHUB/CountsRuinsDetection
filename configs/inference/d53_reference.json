@@ -1,0 +1,11 @@
+{
+  "status": "reference_only_not_used_to_override_pinned_cached_pipeline",
+  "solution": "D53",
+  "stages": ["D4", "D21", "round_D21", "D42", "D48", "D53"],
+  "hand_cap": "2 * people",
+  "person_and_dish_temporal_mode": "median3",
+  "hand_temporal_mode": "single",
+  "occupancy_odds_factor_people_present": 2.0,
+  "occupancy_odds_factor_people_absent": 0.5,
+  "full_neural_inference_ported": false
+}

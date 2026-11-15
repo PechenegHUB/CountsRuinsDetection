@@ -1,0 +1,30 @@
+{
+  "exp044/last.pth": {
+    "sha256": "d896f03fab727ae8c0969c6a95128348e00b72c911b33b8b2ad4fa2819813ac3",
+    "bytes": 499698497
+  },
+  "dfine/dfine_x_obj365.pth": {
+    "sha256": "a3e3177e67fecf958d77599482730aaeb2700794b79a9cdd269470bdd8cb14eb",
+    "bytes": 254464712
+  },
+  "dfine/dfine_l_obj365_e25.pth": {
+    "sha256": "af2ec45453ce9dfb3208f852ae199adfd8fe232c458016b4bcb27bced23a69db",
+    "bytes": 128413144
+  },
+  "yoloe/yoloe-26m-seg.pt": {
+    "sha256": "585f5ec9028fd358035da8d860c27c56be285a795cba2076fba536a4391c2c83",
+    "bytes": 70443185
+  },
+  "yoloe/mobileclip2_b.ts": {
+    "sha256": "35d7f213e4d75f38514e4656ad3cb91158bd33e3805d8ac349f23b186f66982f",
+    "bytes": 253794476
+  },
+  "dinov2/model.safetensors": {
+    "sha256": "ae1e99fcefd534ed978cdeb8326f08030c96e28b7a81ffcbc98a857c84d14be1",
+    "bytes": 88249960
+  },
+  "dinov2/config.json": {
+    "sha256": "1809f83e3bdb1609a501a610ad4a742f4fd8ae44d72ca4aa0df52d1f2ac8628d",
+    "bytes": 547
+  }
+}

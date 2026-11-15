@@ -1,0 +1,15 @@
+{
+  "status": "reference_only_not_a_working_launcher_config",
+  "source": "samir/student_cafe_l.yml at pinned source commit",
+  "initial_checkpoint": "dfine/dfine_l_obj365_e25.pth",
+  "classes": ["person", "hand", "cup", "dish", "item"],
+  "epochs": 12,
+  "batch_size": 8,
+  "amp": true,
+  "ema_decay": 0.998,
+  "seed": 0,
+  "crop_size": 640,
+  "reported_crop_count": 5226,
+  "data_selector": "rows of tables.csv plus aux table crops",
+  "remaining_parameters": "inherited D-FINE YAML tree; not independently reconstructed here"
+}

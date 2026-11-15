@@ -1,0 +1,59 @@
+{
+  "checkpoint": "yoloe-26m-seg.pt",
+  "checkpoint_sha256": "585f5ec9028fd358035da8d860c27c56be285a795cba2076fba536a4391c2c83",
+  "asset_id": 397611556,
+  "release": "v8.4.0",
+  "text_encoder_sha256": "35d7f213e4d75f38514e4656ad3cb91158bd33e3805d8ac349f23b186f66982f",
+  "encoder_asset_id": 340058682,
+  "license": "AGPL-3.0",
+  "ultralytics": "8.4.69",
+  "torch": "2.12.0.dev20260408+cu128",
+  "device": "NVIDIA GeForce RTX 5070",
+  "prompts": [
+    "cup",
+    "mug",
+    "drinking glass",
+    "plate",
+    "bowl",
+    "tray",
+    "cell phone",
+    "wallet",
+    "bag",
+    "headphones",
+    "paper",
+    "takeaway coffee cup",
+    "personal belongings"
+  ],
+  "imgsz": [
+    640,
+    960
+  ],
+  "thresholds": [
+    0.15,
+    0.23,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8
+  ],
+  "prediction": {
+    "conf": 0.15,
+    "device": 0,
+    "half": true,
+    "batch": 1,
+    "retina_masks": true,
+    "iou": 0.7,
+    "agnostic_nms": false,
+    "max_det": 300,
+    "verbose": false
+  },
+  "cross_prompt_iou": 0.5,
+  "table_overlap_min": 0.5,
+  "table_expand_up": 0.15,
+  "manifest_sha256": "00cd027e4fed6bbebea9365b6e770032a6860dc3065f990c4c07d601906a9adb",
+  "postprocess_precision": "FP32 predictions before official native mask construction",
+  "mask_encoding": "COCO RLE in crop pixel coordinates, origin recorded in crop_xyxy",
+  "scope": "test expanded crops for EXP-016"
+}

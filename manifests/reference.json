@@ -1,0 +1,10 @@
+{
+  "bundle_sha256": "cf46063f075c21814bd50499dd5d92845e2c829ee7abe85daf9dfffd5e55ee5e",
+  "stages": {
+    "d21/submission_d21.csv": "23bcba1638a95c97ea41c449e4c683f96512c482420700ce97e1367e55d24e4f",
+    "d21/submission_d21_rounded.csv": "f15ce22c6bd229ff9d5fdeb18ab8c091db51ec1e075308522bca9255fedd8956",
+    "d42/submission_d41_manual.csv": "efe36353986f8608cb3513e9161c5b1ef964f3b97183672ea7e9dacdca419f71",
+    "d48/submission_d48.csv": "dbd1cde20da12c2740dbc1073471c73b055ccb9c521a3c9c6a77fe6954f37e0b",
+    "d53/submission_d53.csv": "09e4c960a562d611a98cedf926773841bc90d3bd556a80872250ce99ac7ccfa0"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "archive": "D53_legacy_weights.zip",
+    "sha256": "1b67a31aafe830d52f828269e7111828ea7574c3021e534092566cf2a35b76b9",
+    "verified_entries": 7,
+    "internal_checksums_valid": true
+  },
+  {
+    "archive": "final_d53_inputs.zip",
+    "sha256": "865d27388b4b5ed559b21394b616d087e0192f72a4a9899e905d7eeaf4c27651",
+    "verified_entries": 16,
+    "internal_checksums_valid": true
+  },
+  {
+    "archive": "D53_jury_run.zip",
+    "bytes": 51206446,
+    "sha256": "66c4d7a10bb6bccbc5b6ba314fb06edef786e1c5da9854378f1b406178a9505a",
+    "zip_crc_valid": true,
+    "embedded_cpu_bundle_sha256": "cf46063f075c21814bd50499dd5d92845e2c829ee7abe85daf9dfffd5e55ee5e",
+    "embedded_cpu_bundle_matches_reference": true
+  }
+]

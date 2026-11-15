@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/PechenegHUB/Counts_ruins.git",
+  "commit": "00b6fb3188f72ddebe1e297cf0e3ea6e0c5c67e2",
+  "entrypoint": "final/reproduce.py",
+  "final_csv": "d53/submission_d53.csv",
+  "expected_rows": 4733,
+  "source_note": "Verified by the original team; not re-executed in this new repository without external bundle."
+}
