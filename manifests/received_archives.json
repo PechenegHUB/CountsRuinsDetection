@@ -18,5 +18,10 @@
     "zip_crc_valid": true,
     "embedded_cpu_bundle_sha256": "cf46063f075c21814bd50499dd5d92845e2c829ee7abe85daf9dfffd5e55ee5e",
     "embedded_cpu_bundle_matches_reference": true
+  },
+  {
+    "archive": "D53_solution.zip",
+    "sha256": "1c0705f058e8b3ae90912adbd8a9994d18bca22582b33a2a12911ca403c9b180",
+    "embedded_cpu_bundle_matches_reference": true
   }
 ]
